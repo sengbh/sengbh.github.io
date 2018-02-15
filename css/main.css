@@ -43,7 +43,7 @@ ul.posts li {
     list-style: none;
 }
 
-ul.list li{
+.list li{
 	width: auto;
 	float: left;
 }
